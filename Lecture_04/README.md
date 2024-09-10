@@ -2,6 +2,10 @@
 
 ## Summary
 
+We started the class with a brief discussion of the [UNO Counseling and Psychological Services](http://bit.ly/unocapsinfo) resource on campus.
+
+----
+
 Today we talked about variables, assignment statements, objects, mutability, immutability, and different numeric data types.
 
 When naming variables, Python best practices indicate that you should start your variables with a letter, followed by meaningful letters, digits and underscores. Underscores should be used for spaces for readability and all letters should be lowercase. Naming conventions are discussed in [PEP8](https://peps.python.org/pep-0008/#naming-conventions), the Python Enhancement Proposal.  PEP8 also discusses coding styles, etc. Here are some examples of valid identifiers used as variable names:
