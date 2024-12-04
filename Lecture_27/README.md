@@ -12,8 +12,6 @@ Today's discussions focused primarily on reading and writing to files.  The big 
 
 * Reading files
 * Writing files
-* The `with` statement
-* CSV files
 
 ## The highlighted topics for this lecture were
 
